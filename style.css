@@ -9,11 +9,12 @@ body{
     margin-top: 60px;
     margin-left: 200px;
 }
-.ncontainers{
+
+.containers{
     background-color: skyblue;
     padding-left: 30px;
-    height: 400px;
-    width: 350px;
+    height: 600px;
+    width: 400px;
     border-radius: 10%;
     border: 2px wheat solid;
 }
@@ -24,23 +25,49 @@ h1{
     padding-right:20px ;
 }
 
-#n1{
+#p1{
     text-align: center;
-    padding-right: 40px;
+    padding-right: 80px;
     color: rgb(47, 43, 43);
 }
+.full-name{
+    padding-top: 20px;
+}
 .username{
+    padding-top: 20px;
+}
+.email{
     padding-top: 20px;
 }
 .password{
     padding-top: 20px;
 }
+.cpassword{
+    padding-top: 20px;
+}
+.check{
+    padding-top: 20px;
+}
 .btn{
     padding-top: 35px;
     text-align: center;
-    padding-right: 40px;
+    padding-right: 30px;
 }
-#n108{
+.already-mem{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+}
+#i107{
+    text-decoration: none;
+    color: purple;
+}
+#i109{
+    text-decoration: none;
+    color: purple;
+}
+#i108{
     height: 40px;
     width: 300px;
     border-top-left-radius: 20px;
@@ -53,14 +80,35 @@ h1{
     background-color: brown;
     border: none;
 }
-#n102{
+#i101{
     background-color: skyblue;
     border: none;
     border-bottom: 2px purple solid;
     width: 275px;
     padding-top: 5px;
 }
-#n104{
+#i102{
+    background-color: skyblue;
+    border: none;
+    border-bottom: 2px purple solid;
+    width: 275px;
+    padding-top: 5px;
+}
+#i103{
+    background-color: skyblue;
+    border: none;
+    border-bottom: 2px purple solid;
+    width: 275px;
+    padding-top: 5px;
+}
+#i104{
+    background-color: skyblue;
+    border: none;
+    border-bottom: 2px purple solid;
+    width: 275px;
+    padding-top: 5px;
+}
+#i105{
     background-color: skyblue;
     border: none;
     border-bottom: 2px purple solid;
